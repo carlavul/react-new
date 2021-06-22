@@ -1,0 +1,36 @@
+{
+    "todos": [
+        {
+            "nome": "Maria",
+            "telefone": "972302654",
+            "email":"mariafg@gmail.com",
+            "contato": "contato1",
+            "category":"family"
+        },
+    
+        {
+            "nome": "Marcos",
+            "telefone": "97256984",
+            "email":"mloptdg@hotmail.com",
+            "contato": "contato2",
+            "category":"friends"
+        },
+    
+        {
+            "nome": "Luis",
+            "telefone": "978546982",
+            "email":"luisem12@gmail.com",
+            "contato": "contato3",
+            "category":"trabalho"
+        },
+    
+        {
+            "nome": "Carla",
+            "telefone": "972170130",
+            "email":"carlavul@gmail.com",
+            "contato": "contato4",
+            "category":"family"
+
+        }
+    ]
+}
